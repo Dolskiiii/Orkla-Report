@@ -1,4 +1,4 @@
-### Orkla-Report
+# Orkla-Report
 Orkla: Dragon Con Detective is a beginner-level OSINT investigation scenario created by KASE Scenarios. The objective is to test your ability to investigate real-world locations, analyze images and audio, and use publicly available information to solve investigative challenges.
 
 The scenario follows a fictional investigator named Orkla, who gives you several assignments to determine whether you have the OSINT skills needed to assist with future investigations.
